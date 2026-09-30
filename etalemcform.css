@@ -1814,7 +1814,7 @@
     font-size: 12px;
     color: var(--is);
   }
-
+.etlw-option-card[hidden] { display: none; }
   /* Segmented button group (house type) */
   .etlw-segmented {
     display: flex;
