@@ -1,7 +1,6 @@
-<!-- OTP SERVICE MODULE — thin client for the "GoodayOn - OTP Public Proxy"
-     n8n workflow. Loaded before the page script so window.OTPService is
-     ready when the wizard initializes. -->
-<script>
+// OTP SERVICE MODULE — thin client for the "GoodayOn - OTP Public Proxy"
+// n8n workflow. Loaded before the page script so window.OTPService is
+// ready when the wizard initializes.
   (function () {
     "use strict";
 
@@ -114,9 +113,8 @@
       describeVerifyError: describeVerifyError,
     };
   })();
-</script>
-<!-- PAGE SCRIPT -->
-<script>
+
+ // PAGE SCRIPT
   (function () {
     var WEBHOOK_URL = "https://goodayon.app.n8n.cloud/webhook/etalem-service-request";
 
@@ -1185,4 +1183,3 @@
       track.innerHTML += track.innerHTML;
     });
   })();
-</script>
