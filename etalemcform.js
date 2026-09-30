@@ -626,7 +626,7 @@
 
     // ---- Wizard engine ----
     var DEFAULT_SEQUENCE = [1, 11, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-    var CATERING_SEQUENCE = [1, 11, 2, 3, 6, 7, 8, 9, 10]; // catering skips the service-detail and frequency steps
+    var CATERING_SEQUENCE = [1, 11, 2, 12, 13, 14, 15, 16, 17, 18, 19, 7, 8, 9, 10];
 
     var currentStep = 1;
     var stepEls = {};
@@ -638,8 +638,10 @@
     var progressFill = document.getElementById("etlProgressFill");
 
     function getSequence() {
-      return getSelectedService() === "catering" ? CATERING_SEQUENCE : DEFAULT_SEQUENCE;
-    }
+  if (getSelectedService() !== "catering") return DEFAULT_SEQUENCE;
+  var fullDay = checkedValue("dayPeriod") === "Full Day"; // Full Day skips the session step
+  return CATERING_SEQUENCE.filter(function (n) { return !(fullDay && n === 14); });
+}
 
     function renderStep() {
       Object.keys(stepEls).forEach(function (key) {
