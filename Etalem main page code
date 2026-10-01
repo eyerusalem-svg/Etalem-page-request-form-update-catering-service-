@@ -1,0 +1,637 @@
+<!-- HERO -->
+<section class="etl-hero-white">
+  <div class="etl-hero-inner">
+    <div class="etl-hero-copy">
+      <h1>What would it feel like to have a little more care at home?</h1>
+      <p>Your home shouldn't feel like another job on your list. You deserve reliable help you can trust — without spending your time searching, negotiating, scheduling, and managing every detail.</p>
+      <p>Finding the right person takes time. Making sure they're reliable takes even more. <strong>We take care of all of it</strong> — from vetting and scheduling to ongoing support, so you can have a well-cared-for home, with more time and peace of mind.</p>
+      <a href="#request" class="etl-hero-cta etl-request-trigger"
+        >Request Etalem
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="5" y1="12" x2="19" y2="12" />
+          <polyline points="12 5 19 12 12 19" />
+        </svg>
+      </a>
+      <div class="etl-hero-badges">
+        <span class="etl-hero-badge">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 3l7 3v5c0 5-3.4 8.4-7 10-3.6-1.6-7-5-7-10V6z" />
+            <path d="M9 12l2 2 4-4" />
+          </svg>
+          Vetted &amp; Certified Professionals
+        </span>
+        <span class="etl-hero-badge">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="9" />
+            <polyline points="12 7 12 12 15.5 14" />
+          </svg>
+          7/week Personal Support
+        </span>
+      </div>
+    </div>
+    <div class="etl-hero-visual">
+      <div class="etl-hero-shape etl-hero-shape-blob" aria-hidden="true"></div>
+      <div class="etl-hero-shape etl-hero-shape-ring" aria-hidden="true"></div>
+      <div class="etl-hero-shape etl-hero-shape-dot"></div>
+      <div class="etl-hero-photo-frame">
+        <img src="https://cdn.prod.website-files.com/676010d97530c2cd3340241e/6a64b9e00482171b55ec5d54_Etalem_photo_3d_popout_3.8MB.avif" alt="Etalem professional maid service" width="480" height="760" />
+      </div>
+      <div class="etl-info-card etl-card-bottom-right">
+        <span class="etl-icon-badge" aria-hidden="true"
+          ><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 3l7 3v5c0 5-3.4 8.4-7 10-3.6-1.6-7-5-7-10V6z" />
+            <path d="M9 12l2 2 4-4" /></svg
+        ></span>
+        <span><b>Premium Home Support</b> <span>Verified &amp; Guaranteed</span></span>
+      </div>
+      <div class="etl-info-card etl-card-bottom-left">
+        <span class="etl-icon-badge" aria-hidden="true"
+          ><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M17 21v-2a4 4 0 0 0-4-4H7a4 4 0 0 0-4 4v2" />
+            <circle cx="10" cy="7" r="4" />
+            <path d="M23 21v-2a4 4 0 0 0-3-3.87" />
+            <path d="M16 3.13a4 4 0 0 1 0 7.75" /></svg
+        ></span>
+        <span><b>250+ Customers</b> <span>Served Daily</span></span>
+      </div>
+    </div>
+  </div>
+</section>
+<main class="etl-page-content">
+  <!-- WHY ETALEM -->
+  <section class="etl-why-v2">
+    <div class="etl-why-v2-card">
+      <div class="etl-why-v2-photo">
+        <img src="https://cdn.prod.website-files.com/676010d97530c2cd3340241e/6a7d4fa1e2faa5c733c49cb7_wall%20of%20excellence%20(1).avif" alt="Etalem professional chef preparing a meal" />
+      </div>
+      <div class="etl-why-v2-copy">
+        <h2>Why Etalem?</h2>
+        <p>We carefully vet &amp; upskill trusted, certified professionals for cleaning, cooking, and babysitting in Addis Ababa.</p>
+        <p>Easy booking through our app, website, or call center (9675), a dedicated account manager, and a satisfaction guarantee on every visit.</p>
+      </div>
+    </div>
+  </section>
+  <!-- HOW WE VET + WHAT CAN ETALEM HELP WITH -->
+  <section class="etl-why-details" aria-labelledby="why-details-title">
+    <div class="etl-details-grid">
+      <div class="etl-vetting">
+        <h3 id="why-details-title">How we vet every Etalem</h3>
+        <p class="etl-vetting-intro">Before an Etalem ever comes to your door:</p>
+        <ul class="etl-vetting-list">
+          <li>
+            <span class="etl-vet-check" aria-hidden="true"
+              ><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="20 6 9 17 4 12" /></svg
+            ></span>
+            <div>
+              <b>Identity verified</b>
+              <p>We confirm who she is.</p>
+            </div>
+          </li>
+          <li>
+            <span class="etl-vet-check" aria-hidden="true"
+              ><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="20 6 9 17 4 12" /></svg
+            ></span>
+            <div>
+              <b>Background &amp; references checked</b>
+              <p>We speak to people who have worked with her before.</p>
+            </div>
+          </li>
+          <li>
+            <span class="etl-vet-check" aria-hidden="true"
+              ><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="20 6 9 17 4 12" /></svg
+            ></span>
+            <div>
+              <b>Skills assessed</b>
+              <p>We evaluate her skills before she is assigned to a home.</p>
+            </div>
+          </li>
+          <li>
+            <span class="etl-vet-check" aria-hidden="true"
+              ><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="20 6 9 17 4 12" /></svg
+            ></span>
+            <div>
+              <b>Training &amp; experience verified</b>
+              <p>We verify documented training or work history.</p>
+            </div>
+          </li>
+          <li>
+            <span class="etl-vet-check" aria-hidden="true"
+              ><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="20 6 9 17 4 12" /></svg
+            ></span>
+            <div>
+              <b>Medical checkup completed</b>
+              <p>Required for Etalems providing childcare.</p>
+            </div>
+          </li>
+          <li>
+            <span class="etl-vet-check" aria-hidden="true"
+              ><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="20 6 9 17 4 12" /></svg
+            ></span>
+            <div>
+              <b>Supervised on the job</b>
+              <p>We continue to monitor performance and gather feedback after placement. Vetting doesn't stop at hiring.</p>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="etl-services-overview">
+        <h3>What can Etalem help with?</h3>
+        <div class="etl-services-grid">
+          <a href="#request" class="etl-service-item" data-link="cooking">
+            <span class="etl-service-icon" aria-hidden="true"><img src="https://cdn.prod.website-files.com/676010d97530c2cd3340241e/6a801e7f567b588e66b373f1_cooking.png" alt="" /></span>
+            <div>
+              <h4>Cooking</h4>
+              <p>Professional cooking support for your home, from everyday meals to regular cooking and catering.</p>
+              <span class="etl-service-explore"
+                >Explore Cooking
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+                  <line x1="5" y1="12" x2="19" y2="12" />
+                  <polyline points="12 5 19 12 12 19" /></svg
+              ></span>
+            </div>
+          </a>
+          <a href="#request" class="etl-service-item" data-link="cleaning">
+            <span class="etl-service-icon" aria-hidden="true"><img src="https://cdn.prod.website-files.com/676010d97530c2cd3340241e/6a801e7f4a8f1fbb2792ea90_cleaning.png" alt="" /></span>
+            <div>
+              <h4>Cleaning</h4>
+              <p>Care for your home, helping you maintain a clean and comfortable space.</p>
+              <span class="etl-service-explore"
+                >Explore Cleaning
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+                  <line x1="5" y1="12" x2="19" y2="12" />
+                  <polyline points="12 5 19 12 12 19" /></svg
+              ></span>
+            </div>
+          </a>
+          <a href="#request" class="etl-service-item" data-link="nanny">
+            <span class="etl-service-icon" aria-hidden="true"><img src="https://cdn.prod.website-files.com/676010d97530c2cd3340241e/6a801e7f48a7ec3ac980ebfb_babysitting.png" alt="" /></span>
+            <div>
+              <h4>Babysitting</h4>
+              <p>Caring support for your children when you need an extra hand.</p>
+              <span class="etl-service-explore"
+                >Explore Babysitting
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+                  <line x1="5" y1="12" x2="19" y2="12" />
+                  <polyline points="12 5 19 12 12 19" /></svg
+              ></span>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- FEATURE CARDS -->
+  <section class="etl-feature-section" aria-labelledby="feature-section-title">
+    <div class="etl-section-copy">
+      <h2 id="feature-section-title">What Sets Us Apart?</h2>
+      <p>Etalem is a fully managed home services experience — We recruit, verify, train, and assign every service provider ourselves, so you get skilled, trustworthy help at transparent prices, with one trusted service standing behind every booking.</p>
+    </div>
+    <div class="etl-feature-cards">
+      <article class="etl-feature-card">
+        <div class="etl-card-icon">
+          <img src="https://cdn.prod.website-files.com/676010d97530c2cd3340241e/6a801e7f320f433cf186fb57_01-personalized-assistance.png" alt="" />
+        </div>
+        <div class="etl-card-body">
+          <b>Personalized Assistance</b>
+          <p>Your needs are recorded from the very first call — special requests, preferences, and household details are tracked throughout your subscription and briefed to your provider before every visit. You never have to repeat yourself, and nothing gets overlooked.</p>
+        </div>
+      </article>
+      <article class="etl-feature-card">
+        <div class="etl-card-icon">
+          <img src="https://cdn.prod.website-files.com/676010d97530c2cd3340241e/6a801e7f12dc249ddec83e34_02-scheduling-support.png" alt="" />
+        </div>
+        <div class="etl-card-body">
+          <b>Scheduling Support</b>
+          <p>We manage your service calendar for you — confirming sessions in advance, sending renewal reminders, and adjusting visits when your plans change. Your service arrives on time, every time, without you having to chase anyone.</p>
+        </div>
+      </article>
+      <article class="etl-feature-card">
+        <div class="etl-card-icon">
+          <img src="https://cdn.prod.website-files.com/676010d97530c2cd3340241e/6a801e7f567b588e66b373ee_03-account-management.png" alt="" />
+        </div>
+        <div class="etl-card-body">
+          <b>Account Management</b>
+          <p>Every client has a dedicated team behind them. If a provider can't attend or you raise a concern through our feedback channels, we arrange a qualified replacement promptly — your schedule stays intact, and your issue is resolved by us, not left with you.</p>
+        </div>
+      </article>
+      <article class="etl-feature-card">
+        <div class="etl-card-icon">
+          <img src="https://cdn.prod.website-files.com/676010d97530c2cd3340241e/6a801e7f7a61e6094ac8742f_04-worry-free-guarantee.png" alt="" />
+        </div>
+        <div class="etl-card-body">
+          <b>Worry-Free Guarantee</b>
+          <p>Every service is backed by our coverage against damages or issues during delivery. If something goes wrong, Etalem takes responsibility and makes it right — that's the difference of dealing with a company, not an individual.</p>
+        </div>
+      </article>
+      <article class="etl-feature-card">
+        <div class="etl-card-icon">
+          <img src="https://cdn.prod.website-files.com/676010d97530c2cd3340241e/6a801e7f257ecdddd8939449_05-skilled-and-trustworthy.png" alt="" />
+        </div>
+        <div class="etl-card-body">
+          <b>Skilled and Trustworthy</b>
+          <p>Every provider passes identity checks, reference verification, and skills certification before their first assignment — and receives continuous training after it. You can relax knowing your home is in vetted, professional hands.</p>
+        </div>
+      </article>
+      <article class="etl-feature-card">
+        <div class="etl-card-icon">
+          <img src="https://cdn.prod.website-files.com/676010d97530c2cd3340241e/6a801e7f257ecdddd8939444_06-fully-managed-service.png" alt="" />
+        </div>
+        <div class="etl-card-body">
+          <b>Fully Managed Service</b>
+          <p>Etalem is a fully managed service — we select, train, and assign every service provider, set transparent prices, and take full responsibility for quality. You deal with one trusted service, not an individual.</p>
+        </div>
+      </article>
+    </div>
+  </section>
+  <!-- TESTIMONIALS -->
+  <section class="etl-testimonials" aria-labelledby="testimonials-title">
+    <div class="etl-section-copy">
+      <h2 id="testimonials-title">What Our Customers Say About Us</h2>
+      <p>Real feedback from people who trust Etalem to keep their homes running smoothly with honest service and care.</p>
+    </div>
+    <div class="etl-testimonial-marquee">
+      <div class="etl-testimonial-track">
+        <article class="etl-testimonial-card">
+          <div class="etl-quote-mark">"</div>
+          <p>My Etalem babysitter has been amazing from day one. She instantly connected with my newborn, providing the kind of care and attention that gives me and my wife complete peace of mind. Her warmth, patience, and professionalism make us feel confident that our child is in the best hands. Thanks to Etalem, we can focus on our daily lives knowing our baby is well cared for.</p>
+          <div class="etl-testimonial-profile">
+            <div class="etl-profile-badge">S</div>
+            <div class="etl-profile-info">
+              <h3>Semegn Tadesse</h3>
+              <div class="etl-role">Etalem customer</div>
+            </div>
+          </div>
+        </article>
+        <article class="etl-testimonial-card">
+          <div class="etl-quote-mark">"</div>
+          <p>I didn't think I'd ever have someone who could make food that actually tastes like home. Not just basic meals, but well-seasoned, perfectly portioned dishes that hit the spot every time. I've found myself looking forward to meals like a kid waiting for their mom's special recipe.</p>
+          <div class="etl-testimonial-profile">
+            <div class="etl-profile-badge">W</div>
+            <div class="etl-profile-info">
+              <h3>Winfred Nduku</h3>
+              <div class="etl-role">Etalem customer</div>
+            </div>
+          </div>
+        </article>
+        <article class="etl-testimonial-card">
+          <div class="etl-quote-mark">"</div>
+          <p>Honestly, Etalem has made my life easier in ways I didn't even realize I needed. If you're in Addis and looking for maid; something premium, professional, and hassle-free, this is it. Worth every penny.</p>
+          <div class="etl-testimonial-profile">
+            <div class="etl-profile-badge">A</div>
+            <div class="etl-profile-info">
+              <h3>Albert Ngumba</h3>
+              <div class="etl-role">Etalem customer</div>
+            </div>
+          </div>
+        </article>
+        <article class="etl-testimonial-card">
+          <div class="etl-quote-mark">"</div>
+          <p>I've been using Etalem for almost a year now, and I love coming home to a space that feels effortlessly put together, where everything is spotless, the air feels fresher, and best of all, there's a home-cooked meal waiting for me. Etalem maids take the time to do the little things, doing everything just the way I want it.</p>
+          <div class="etl-testimonial-profile">
+            <div class="etl-profile-badge">P</div>
+            <div class="etl-profile-info">
+              <h3>Patrick Maina</h3>
+              <div class="etl-role">Etalem customer</div>
+            </div>
+          </div>
+        </article>
+      </div>
+    </div>
+    <div class="etl-testimonials-cta">
+      <a href="#request" class="etl-request-btn">Request Etalem</a>
+    </div>
+  </section>
+</main>
+<!-- REQUEST ETALEM MODAL — 11-step journey, including OTP verification -->
+<div class="etl-request-overlay" id="request" role="dialog" aria-modal="true" aria-labelledby="etl-request-title">
+  <div class="etl-request-card">
+    <button type="button" class="etl-request-close" aria-label="Close request form">&times;</button>
+    <div id="etlFormWrap">
+      <div class="etlw-progress-row">
+        <button type="button" class="etlw-back" id="etlBackChevron" aria-label="Go back" style="display: none">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="15 18 9 12 15 6" />
+          </svg>
+        </button>
+        <div class="etlw-progress-label" id="etlProgressLabel">Step 1 of 11</div>
+      </div>
+      <div class="etlw-progress-track">
+        <div class="etlw-progress-fill" id="etlProgressFill"></div>
+      </div>
+
+      <div id="etlFormError" style="display: none; margin-bottom: 10px; padding: 11px 14px; background: #fdeaf4; color: #b6156a; border-radius: 10px; font-size: 13.5px; font-weight: 700"></div>
+
+      <form id="etlRequestForm" novalidate>
+        <!-- STEP 1 — Welcome -->
+        <div class="etlw-step etlw-step-active" data-step="1">
+          <h3 id="etl-request-title">Let's find your Etalem.</h3>
+          <p class="etlw-subtitle">Tell us a little about you, and we'll take it from there.</p>
+          <div class="etl-form-group">
+            <label for="etlName">Full name</label>
+            <input type="text" id="etlName" name="name" placeholder="e.g. Hana Tesfaye" autocomplete="name" required />
+          </div>
+          <div class="etl-form-group">
+            <label for="etlPhone">Phone number</label>
+            <div class="etlw-phone-row">
+              <span class="etlw-phone-prefix">+251</span>
+              <input type="tel" id="etlPhone" name="phone" placeholder="9XX XXX XXX or 7XX XXX XXX" autocomplete="tel" inputmode="numeric" pattern="[79][0-9]{8}" required />
+            </div>
+          </div>
+          <div class="etlw-consent-row">
+            <label class="etlw-consent-check">
+              <input type="checkbox" id="etlPrivacyConsent" name="privacyConsent" required />
+              <span class="etlw-consent-box" aria-hidden="true"
+                ><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                  <polyline points="20 6 9 17 4 12" /></svg
+              ></span>
+              <span class="etlw-consent-text">I agree to GoodayOn verifying and storing my phone number as described in the <a href="https://gooday.io/gooday-privacy-policy" target="_blank" rel="noopener">Privacy Policy</a>.</span>
+            </label>
+          </div>
+          <button type="button" class="etlw-continue" data-next disabled>Get Started</button>
+          <p class="etlw-footer-note">Your information stays private and is only used to match you with your Etalem.</p>
+        </div>
+
+        <!-- STEP OTP — Verification -->
+        <div class="etlw-step" data-step="11">
+          <h3>Verify it's you.</h3>
+          <p class="etlw-subtitle" id="etlOtpSubtitle">We sent a 6-digit code to +251 9** *** ***.</p>
+          <div class="etlw-otp-row" id="etlOtpRow">
+            <input type="text" inputmode="numeric" pattern="[0-9]*" maxlength="1" class="etlw-otp-input" data-otp-index="0" autocomplete="one-time-code" />
+            <input type="text" inputmode="numeric" pattern="[0-9]*" maxlength="1" class="etlw-otp-input" data-otp-index="1" />
+            <input type="text" inputmode="numeric" pattern="[0-9]*" maxlength="1" class="etlw-otp-input" data-otp-index="2" />
+            <input type="text" inputmode="numeric" pattern="[0-9]*" maxlength="1" class="etlw-otp-input" data-otp-index="3" />
+            <input type="text" inputmode="numeric" pattern="[0-9]*" maxlength="1" class="etlw-otp-input" data-otp-index="4" />
+            <input type="text" inputmode="numeric" pattern="[0-9]*" maxlength="1" class="etlw-otp-input" data-otp-index="5" />
+          </div>
+          <div class="etlw-otp-resend">
+            Didn't get a code?
+            <button type="button" class="etlw-otp-resend-btn" id="etlOtpResendBtn" disabled>Resend in <span id="etlOtpCountdown">01:00</span></button>
+          </div>
+          <button type="button" class="etlw-continue" data-next disabled>Verify &amp; Continue</button>
+        </div>
+
+        <!-- STEP 2 — Service Selection -->
+        <div class="etlw-step" data-step="2">
+          <h3>Which Etalem service would you like to book?</h3>
+          <div class="etlw-service-cards" id="etlServiceCards">
+            <label class="etlw-service-card">
+              <input type="radio" name="service" value="cooking" />
+              <span class="etlw-service-icon-badge" aria-hidden="true"><img src="https://cdn.prod.website-files.com/676010d97530c2cd3340241e/6a801e7f567b588e66b373f1_cooking.png" alt="Cooking" /></span>
+              <span><b>Cooking</b><span>Delicious, home-cooked meals — made your way.</span></span>
+            </label>
+            <label class="etlw-service-card">
+              <input type="radio" name="service" value="cleaning" />
+              <span class="etlw-service-icon-badge" aria-hidden="true"><img src="https://cdn.prod.website-files.com/676010d97530c2cd3340241e/6a801e7f4a8f1fbb2792ea90_cleaning.png" alt="Cleaning" /></span>
+              <span><b>Cleaning</b><span>A spotless home, on a schedule that suits you.</span></span>
+            </label>
+            <label class="etlw-service-card">
+              <input type="radio" name="service" value="nanny" />
+              <span class="etlw-service-icon-badge" aria-hidden="true"><img src="https://cdn.prod.website-files.com/676010d97530c2cd3340241e/6a801e7f48a7ec3ac980ebfb_babysitting.png" alt="Babysitting" /></span>
+              <span><b>Babysitting</b><span>Caring, reliable support for your little ones.</span></span>
+            </label>
+            <label class="etlw-service-card">
+              <input type="radio" name="service" value="catering" />
+              <span class="etlw-service-icon-badge" aria-hidden="true"><img src="https://cdn.prod.website-files.com/676010d97530c2cd3340241e/6a8daa3310beed50aa99c9fd_Etalem%20logo%20(12.499%20x%2012.499%20in)%20(5).png" alt="Catering" /></span>
+              <span><b>Catering</b><span>Freshly prepared food for your event, delivered on time.</span></span>
+            </label>
+          </div>
+          <button type="button" class="etlw-continue" data-next disabled>Continue</button>
+        </div>
+
+        <!-- STEP 3 — Transition -->
+        <div class="etlw-step" data-step="3">
+          <div class="etlw-transition">
+            <span class="etlw-pill" id="etlTransitionPill">Cooking selected</span>
+            <h3>Good! To find the right match, tell us a bit more.</h3>
+            <p id="etlTransitionText">Just a few quick questions about your cooking needs — it takes less than a minute.</p>
+          </div>
+          <button type="button" class="etlw-continue" data-next>Continue</button>
+        </div>
+
+        <!-- STEP 4 — Service-specific branch (skipped for Catering) -->
+        <div class="etlw-step" data-step="4">
+          <h3 id="etlBranchTitle">Tell us about your cooking needs.</h3>
+
+          <div class="etl-conditional-section" id="etlCookingSection" style="display: none">
+            <div class="etl-form-group">
+              <label>How many people will you usually cook for?</label>
+              <div class="etlw-stepper">
+                <button type="button" class="etlw-stepper-btn" data-step-target="etlNumberOfPeople" data-step-dir="-1">&minus;</button>
+                <input type="number" id="etlNumberOfPeople" name="numberOfPeople" min="1" value="1" />
+                <button type="button" class="etlw-stepper-btn" data-step-target="etlNumberOfPeople" data-step-dir="1">+</button>
+              </div>
+            </div>
+            <div class="etl-form-group">
+              <label>Any cuisines your family prefers?</label>
+              <div class="etl-checkbox-group" id="etlCuisineGroup">
+                <label class="etl-checkbox-option"><input type="checkbox" name="cuisinePreference" value="Local Ethiopian" /> Local Ethiopian</label>
+                <label class="etl-checkbox-option"><input type="checkbox" name="cuisinePreference" value="Foreign" /> Foreign</label>
+              </div>
+            </div>
+          </div>
+
+          <div class="etl-conditional-section" id="etlCleaningSection" style="display: none">
+            <div class="etl-form-group">
+              <label>How many rooms need cleaning?</label>
+              <div class="etlw-stepper">
+                <button type="button" class="etlw-stepper-btn" data-step-target="etlNumberOfRooms" data-step-dir="-1">&minus;</button>
+                <input type="number" id="etlNumberOfRooms" name="numberOfRooms" min="1" value="1" />
+                <button type="button" class="etlw-stepper-btn" data-step-target="etlNumberOfRooms" data-step-dir="1">+</button>
+              </div>
+            </div>
+            <div class="etl-form-group">
+              <label>What type of home do you live in?</label>
+              <div class="etlw-segmented" id="etlHouseTypeGroup">
+                <label><input type="radio" name="houseType" value="Apartment" /> Apartment</label>
+                <label><input type="radio" name="houseType" value="Villa" /> Villa</label>
+                <label><input type="radio" name="houseType" value="G+1" /> G+1</label>
+                <label><input type="radio" name="houseType" value="G+2" /> G+2</label>
+                <label><input type="radio" name="houseType" value="G+3" /> G+3</label>
+              </div>
+            </div>
+            <div class="etl-form-group" id="etlApartmentSizeGroup" style="display: none">
+              <label for="etlApartmentSize">What size is your apartment?</label>
+              <select id="etlApartmentSize" name="apartmentSize">
+                <option value="" selected disabled>Select size</option>
+                <option value="One Bedroom">One Bedroom</option>
+                <option value="Two Bedroom">Two Bedroom</option>
+                <option value="Three Bedroom">Three Bedroom</option>
+                <option value="Four Bedroom">Four Bedroom</option>
+              </select>
+            </div>
+            <div class="etl-form-group">
+              <label>Would you like any extra services?</label>
+              <div class="etl-checkbox-group" id="etlExtraCleaningGroup">
+                <label class="etl-checkbox-option"><input type="checkbox" name="extraCleaningServices" value="Laundry/Folding Clothes" /> Laundry &amp; Folding Clothes</label>
+                <label class="etl-checkbox-option"><input type="checkbox" name="extraCleaningServices" value="Ironing" /> Ironing</label>
+                <label class="etl-checkbox-option"><input type="checkbox" name="extraCleaningServices" value="Dish Washing" /> Dish Washing</label>
+              </div>
+            </div>
+          </div>
+
+          <div class="etl-conditional-section" id="etlBabysittingSection" style="display: none">
+            <div class="etl-form-group">
+              <label>How many children need care?</label>
+              <div class="etlw-stepper">
+                <button type="button" class="etlw-stepper-btn" data-step-target="etlNumberOfChildren" data-step-dir="-1">&minus;</button>
+                <input type="number" id="etlNumberOfChildren" name="numberOfChildren" min="1" value="1" />
+                <button type="button" class="etlw-stepper-btn" data-step-target="etlNumberOfChildren" data-step-dir="1">+</button>
+              </div>
+            </div>
+            <div class="etl-form-group">
+              <label>What is your child's age group?</label>
+              <div class="etlw-option-list" id="etlChildAgeGroup">
+                <label class="etlw-option-card"><input type="radio" name="childAge" value="0 - 2 months" /><b>0 - 2 months</b></label>
+                <label class="etlw-option-card"><input type="radio" name="childAge" value="3 - 6 months" /><b>3 - 6 months</b></label>
+                <label class="etlw-option-card"><input type="radio" name="childAge" value="7 - 12 months" /><b>7 - 12 months</b></label>
+                <label class="etlw-option-card"><input type="radio" name="childAge" value="1 year and above" /><b>1 year and above</b></label>
+              </div>
+            </div>
+          </div>
+
+          <button type="button" class="etlw-continue" data-next>Continue</button>
+        </div>
+
+        <!-- STEP 5 — Frequency -->
+        <div class="etlw-step" data-step="5">
+          <h3>How often would you like your Etalem to come?</h3>
+          <div class="etlw-option-list">
+            <label class="etlw-option-card"><input type="radio" name="weeklyFrequency" value="Task-based(Once)" /><b>One-time visit</b></label>
+            <label class="etlw-option-card etlw-cleaning-only" style="display: none"><input type="radio" name="weeklyFrequency" value="Deep Cleaning (One-Time)" /><b>Deep Cleaning (One-Time)</b></label>
+            <label class="etlw-option-card"><input type="radio" name="weeklyFrequency" value="1 Day/Week" /><b>1 time / week</b></label>
+            <label class="etlw-option-card"><input type="radio" name="weeklyFrequency" value="2 Days/Week" /><b>2 times / week</b></label>
+            <label class="etlw-option-card"><input type="radio" name="weeklyFrequency" value="3 Days/Week" /><b>3 times / week</b></label>
+            <label class="etlw-option-card"><input type="radio" name="weeklyFrequency" value="4 Days/Week" /><b>4 times / week</b></label>
+            <label class="etlw-option-card"><input type="radio" name="weeklyFrequency" value="5 Days/Week" /><b>5 times / week</b></label>
+            <label class="etlw-option-card"><input type="radio" name="weeklyFrequency" value="6 Days/Week" /><b>6 times / week</b></label>
+            <label class="etlw-option-card"><input type="radio" name="weeklyFrequency" value="Weekend" /><b>Weekend</b></label>
+          </div>
+          <button type="button" class="etlw-continue" data-next disabled>Continue</button>
+        </div>
+
+        <!-- STEP 6 — Session Type -->
+        <div class="etlw-step" data-step="6">
+          <h3>What time of day works best?</h3>
+          <div class="etlw-option-list">
+            <label class="etlw-option-card"><input type="radio" name="dailyServiceDuration" value="Full Day" /><b>Full Day</b><span id="etlFullDayHours">7:00 AM – 4:00 PM</span></label>
+            <label class="etlw-option-card"><input type="radio" name="dailyServiceDuration" value="Half Day - Morning" /><b>Morning</b><span>7:00 AM – 12:00 PM</span></label>
+            <label class="etlw-option-card"><input type="radio" name="dailyServiceDuration" value="Half Day - Afternoon" /><b>Afternoon</b><span>1:00 PM – 5:00 PM</span></label>
+          </div>
+          <div class="etl-form-group">
+            <label id="etlPreferredDaysLabel" for="etlServiceDate">Preferred service start date</label>
+            <input type="date" id="etlServiceDate" />
+            <div class="etlw-note" id="etlWeekendDatesNote" style="display: none">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="3" y="4.5" width="18" height="16" rx="2" />
+                <path d="M16 2.5v4M8 2.5v4M3 10h18" />
+              </svg>
+              <span id="etlWeekendDatesText"></span>
+            </div>
+          </div>
+          <div class="etl-form-group" id="etlPreferredWeekdaysGroupWrap" style="display: none">
+            <label id="etlPreferredWeekdaysLabel">Which days work best?</label>
+            <div class="etl-checkbox-group" id="etlPreferredWeekdaysGroup">
+              <label class="etl-checkbox-option"><input type="checkbox" name="preferredWeekday" value="Monday" /> Monday</label>
+              <label class="etl-checkbox-option"><input type="checkbox" name="preferredWeekday" value="Tuesday" /> Tuesday</label>
+              <label class="etl-checkbox-option"><input type="checkbox" name="preferredWeekday" value="Wednesday" /> Wednesday</label>
+              <label class="etl-checkbox-option"><input type="checkbox" name="preferredWeekday" value="Thursday" /> Thursday</label>
+              <label class="etl-checkbox-option"><input type="checkbox" name="preferredWeekday" value="Friday" /> Friday</label>
+              <label class="etl-checkbox-option"><input type="checkbox" name="preferredWeekday" value="Saturday" /> Saturday</label>
+              <label class="etl-checkbox-option"><input type="checkbox" name="preferredWeekday" value="Sunday" /> Sunday</label>
+            </div>
+            <div class="etlw-note" id="etlPreferredWeekdaysCountNote"><span id="etlPreferredWeekdaysCountText"></span></div>
+          </div>
+          <div class="etlw-note">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="9" />
+              <polyline points="12 7 12 12 15.5 14" />
+            </svg>
+            <span>Sessions run until the selected cutoff time above. If a session runs past this time, an extra-hour charge applies — we'll always let you know before it does.</span>
+          </div>
+          <button type="button" class="etlw-continue" data-next disabled>Continue</button>
+        </div>
+
+        <!-- STEP 7 — Location -->
+        <div class="etlw-step" data-step="7">
+          <h3>Where in Addis do you live?</h3>
+          <div class="etl-form-group">
+            <label for="etlLocation">Your area</label>
+            <input type="text" id="etlLocation" name="location" placeholder="e.g. Bole, Sarbet, CMC..." autocomplete="address-level2" required />
+          </div>
+          <div class="etl-form-group">
+            <label for="etlLandmark">Nearest known landmark</label>
+            <input type="text" id="etlLandmark" name="landmark" placeholder="e.g. near Friendship Building..." />
+          </div>
+          <div class="etlw-note">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0z" />
+              <circle cx="12" cy="10" r="3" />
+            </svg>
+            <span>This helps us find a trusted Etalem near you. Your exact address is shared only with your assigned Etalem — never anyone else.</span>
+          </div>
+          <button type="button" class="etlw-continue" data-next disabled>Continue</button>
+        </div>
+
+        <!-- STEP 8 — Marketing Channel -->
+        <div class="etlw-step" data-step="8">
+          <h3>How did you find Etalem?</h3>
+          <div class="etlw-option-list">
+            <label class="etlw-option-card"><input type="radio" name="marketingChannel" value="Friends/Family" /><b>Friends/Family</b></label>
+            <label class="etlw-option-card"><input type="radio" name="marketingChannel" value="Instagram" /><b>Instagram</b></label>
+            <label class="etlw-option-card"><input type="radio" name="marketingChannel" value="Tiktok" /><b>Tiktok</b></label>
+            <label class="etlw-option-card"><input type="radio" name="marketingChannel" value="LinkedIn" /><b>LinkedIn</b></label>
+            <label class="etlw-option-card"><input type="radio" name="marketingChannel" value="Previous Customer" /><b>Previous Customer</b></label>
+          </div>
+          <button type="button" class="etlw-continue" data-next disabled>Continue</button>
+        </div>
+
+        <!-- STEP 9 — Reach Preference -->
+        <div class="etlw-step" data-step="9">
+          <h3>How would you like us to reach you?</h3>
+          <div class="etlw-option-list">
+            <label class="etlw-option-card"><input type="radio" name="preferredCommunicationChannel" value="WhatsApp" /><b>WhatsApp</b></label>
+            <label class="etlw-option-card"><input type="radio" name="preferredCommunicationChannel" value="SMS" /><b>SMS</b></label>
+            <label class="etlw-option-card"><input type="radio" name="preferredCommunicationChannel" value="Call" /><b>Call</b></label>
+          </div>
+          <button type="button" class="etlw-continue" data-next disabled>Continue</button>
+        </div>
+
+        <!-- STEP 10 — Notes & Submit -->
+        <div class="etlw-step" data-step="10">
+          <h3>Anything else you'd like us to know?</h3>
+          <div class="etl-form-group">
+            <label for="etlTask">Additional notes <span class="etlw-optional-tag">Optional</span></label>
+            <textarea id="etlTask" name="task" maxlength="500" placeholder="Allergies, pets, access instructions, or any special requests..."></textarea>
+            <span class="etl-char-count" id="etlCharCount">0/500 characters used</span>
+          </div>
+          <button type="submit" class="etlw-continue" id="etlSubmitBtn">Get Your Etalem</button>
+        </div>
+      </form>
+    </div>
+    <div id="etlFormSuccess" class="etlw-confirm" style="display: none">
+      <div class="etlw-confirm-icon">
+        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#e21e81" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M4 6h16v12H4z" />
+          <path d="M4 7l8 6 8-6" />
+        </svg>
+      </div>
+      <h3>You're all set!</h3>
+      <p>Our team is putting together your personalized quote and will send it to you shortly.</p>
+      <span class="etlw-confirm-pill"
+        ><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="9" />
+          <polyline points="12 7 12 12 15.5 14" /></svg
+        >Expect to hear from us within the next 2 business hours</span
+      >
+      <!-- <div class="etlw-confirm-ref" id="etlConfirmRef">Reference: ET-2026-0000</div> -->
+    </div>
+  </div>
+</div>
+<!-- FLOATING WHATSAPP BUTTON -->
+<a href="https://wa.me/251900320880" target="_blank" rel="noopener" class="etl-wa-btn" aria-label="WhatsApp"><img src="https://cdn.simpleicons.org/whatsapp/ffffff" alt="WhatsApp" loading="lazy" /></a>
